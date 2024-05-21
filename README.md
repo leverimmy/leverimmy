@@ -2,7 +2,7 @@
 
 - 👯 I'm an ordinary student majoring in Computer Science and Technology at Tsinghua University.
 - 🔭 I’m currently working on Quantum Computing and Theoretical Computer Science.
-- 🌱 I’m currently learning school curriculums such as Introduction to Artificial Computer Science, Software Engineering, and Digital Logic Design(which are quite boring).
+- 🌱 I’m currently learning school curriculums such as Introduction to Artificial Intelligence, Software Engineering, and Digital Logic Design(which, sadly, turned out to be quite boring).
 - 💬 Ask me about my school life on campus!
 - 📫 How to reach me: via email at leverimmy@gmail.com
 - 😄 Pronouns: he or him.
