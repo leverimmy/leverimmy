@@ -1,6 +1,12 @@
 ## Hi! Clever_Jimmy here!
 
-I'm using the ID `LeverImmy` because GitHub usernames must not contain underlines.
+- 👯 I'm an ordinary student majoring in Computer Science and Technology at Tsinghua University.
+- 🔭 I’m currently working on Quantum Computing and Theoretical Computer Science.
+- 🌱 I’m currently learning school curriculums such as Introduction to Artificial Computer Science, Software Engineering, and Digital Logic Design(which are quite boring).
+- 💬 Ask me about my school life on campus!
+- 📫 How to reach me: via email at leverimmy@gmail.com
+- 😄 Pronouns: he or him.
+- ⚡ Fun fact: I'm using the ID `LeverImmy` because GitHub usernames must not contain underlines.
 
 <!--
 **LeverImmy/LeverImmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
