@@ -25,4 +25,12 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leverimmy&show_icons=true)
+<table><tr><td>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile)
+
+</td><td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=html,Tcl,Shell,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=10&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=html,Tcl,Shell,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=10&hide_border=true)
+
+</td></tr></table>
