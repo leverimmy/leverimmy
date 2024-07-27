@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 </td><td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=html,Tcl,Shell,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=10&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=html,Tcl,Shell,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=10&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=stylus,nunjucks,javascript,html,Tcl,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=8&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=stylus,nunjucks,javascript,html,Tcl,Jupyter%20Notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=8&hide_border=true)
 
 </td></tr></table>
