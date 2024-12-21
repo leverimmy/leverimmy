@@ -1,12 +1,13 @@
 ## Hi! Clever_Jimmy here!
 
 - 👯 I'm an ordinary student majoring in Computer Science and Technology at Tsinghua University.
-- 🔭 I’m currently working on solving combinatorial optimization problems with machine learning methods.
 - 🌱 I’m currently learning school curriculums such as Introduction to Artificial Intelligence, Software Engineering, and Digital Logic Design.
 - 💬 Ask me about my school life on campus!
 - 📫 How to reach me: Please get in touch with me via email at leverimmy@gmail.com.
 - 😄 Pronouns: It is compulsory for you to use 'he' or 'him'.
 - ⚡ Fun fact: I'm using the ID `leverimmy` because GitHub usernames must not contain underlines. Well, try to remove all the non-lowercase letters in `Clever_Jimmy`!
+
+<!-- - 🔭 I’m currently working on solving combinatorial optimization problems with machine learning methods. -->
 
 <!--
 **LeverImmy/LeverImmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
