@@ -1,7 +1,7 @@
 ## Hi! Clever_Jimmy here!
 
 - 👯 I'm an ordinary student majoring in Computer Science and Technology at Tsinghua University.
-- 🌱 I’m currently learning school curriculums such as Introduction to Artificial Intelligence, Software Engineering, and Digital Logic Design.
+- 🌱 I’m currently learning school curriculums such as Computer Organization, Computer Network, and Principles and Practice of Compiler Construction.
 - 💬 Ask me about my school life on campus!
 - 📫 How to reach me: Please get in touch with me via email at leverimmy@gmail.com.
 - 😄 Pronouns: It is compulsory for you to use 'he' or 'him'.
