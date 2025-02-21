@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <table><tr><td>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile)
+[![Stats](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)](https://github-readme-stats.vercel.app/api?username=leverimmy&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)
 
 </td><td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=shell,stylus,nunjucks,javascript,html,tcl,jupyter%20notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=8&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=leverimmy&layout=pie&hide=shell,stylus,nunjucks,javascript,html,tcl,jupyter%20notebook&exclude_repo=Codes,REKCARC-TSC-UHT&langs_count=8&hide_border=true)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leverimmy&hide=Other)](https://github-readme-stats.vercel.app/api/wakatime?username=leverimmy&hide=Other)
 
 </td></tr></table>
