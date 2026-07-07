@@ -6,7 +6,7 @@
 - 📫 How to reach me: Please get in touch with me via email at xze22@tsinghua.org.cn .
 - 😄 Pronouns: It is compulsory for you to use 'he' or 'him'.
 - ⚡ Fun fact: I use the ID `leverimmy` because GitHub usernames cannot contain underscores. Try removing all non-lowercase characters from `Clever_Jimmy`!
-- 
+
 <!-- - 🔭 I’m currently working on solving combinatorial optimization problems with machine learning methods. -->
 
 <!--
